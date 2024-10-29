@@ -5,4 +5,4 @@ requests
 uvloop
 kvsqlite
 python-dotenv
-git+https://github.com/coletdjnz/yt-dlp-youtube-oauth2/archive/refs/heads/master.zip
+https://github.com/coletdjnz/yt-dlp-youtube-oauth2/archive/refs/heads/master.zip
