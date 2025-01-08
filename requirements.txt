@@ -5,4 +5,3 @@ uvloop
 kvsqlite
 python-dotenv
 git+https://github.com/Twilight-Killer/tgram.git
-yt_dlp
